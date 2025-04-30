@@ -1,0 +1,5 @@
+TODO rules to work with modules
+1. Modules must be single-purposed
+2. Locate all "export" instructions below the file
+3. Locate all "import" instructions above the file
+4. If you are able, use the "export default"
